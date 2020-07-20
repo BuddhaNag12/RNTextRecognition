@@ -1,0 +1,12 @@
+{
+  "name": "camscanner",
+  "displayName": "camscanner",
+  "expo": {
+    "name": "camscanner",
+    "slug": "camscanner",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
