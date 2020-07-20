@@ -20,7 +20,7 @@ and place it to android/app/ here
 ## configure  go to android/build.gradle and
 > add classpath 'com.google.gms:google-services:4.3.3'
 
-# configure go to android/build.gradle
+# configure go to android/app/build.gradle
 > apply plugin: 'com.android.application'
 > apply plugin: 'com.google.gms.google-services'
 
