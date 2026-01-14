@@ -19,7 +19,7 @@
     "expo-updates": "~0.2.10",
     "react": "~16.11.0",
     "react-dom": "~16.11.0",
-    "react-native": "~0.62.2",
+    "react-native": "~0.82.1",
     "react-native-camera": "^3.32.0",
     "react-native-elements": "^2.0.4",
     "react-native-fs": "^2.16.6",
